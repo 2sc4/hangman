@@ -14,8 +14,8 @@ var Hangman = (function () {
         this.elId       = elId;
         // Possible words
         this.words      = [
-            'STRESS', 'GRADES', 'CHEAT', 'DIPLOMA',
-            'EXAM', 'REVIEW', 'PASS', 'FAIL'
+            'BORING', 'TAXING', 'TIRING', 'EXHAUSTING',
+            'INNOVATIVE', 'FASCINATING', 'CUSHY', 'COLLABORATIVE'
         ];
     }
 
